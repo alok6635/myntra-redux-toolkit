@@ -217,6 +217,16 @@
     border-radius: 10px;
     cursor: pointer;
   }
+  .btn-remove-bag{
+    margin-top: 8px;
+    font-size: 18px;
+    width: 100%;
+    background-color: red;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
   .bag-item-count {
     background-color: #f16565;
     white-space: nowrap;
